@@ -1,0 +1,2 @@
+# ZenGenAIAssign
+RAG based application
